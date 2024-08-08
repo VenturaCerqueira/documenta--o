@@ -15,11 +15,11 @@
     ![alt text](Fotos/image-1.png)<br>
     ![alt text](Fotos/image-2.png)
 
-4.  D.A. 
+4.  **D.A.:** 
     > **Observação:** *Checkbox* Caso seja uma D.A. deve-se colocar apenas D.A. do tipo do tributo marcado acima em **Tributos**<br>
     ![alt text](Fotos/image-5.png)
 
-5.  Exercicio 
+5.  **Exercicio:** 
     > **Observação:** Seleciona *Ano (2024, 2023, 2022, ...)* <br>
     Filtro da competencia<br>
     ![alt text](Fotos/image-3.png)<br>

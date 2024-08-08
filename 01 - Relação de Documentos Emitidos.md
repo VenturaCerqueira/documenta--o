@@ -1,4 +1,4 @@
-### Relação de Documentos Emitidos:
+### ✅Relação de Documentos Emitidos:
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 #### Filtros:
 

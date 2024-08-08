@@ -1,4 +1,4 @@
-### Relação de DAM's Arrecadados:
+### ✅Relação de DAM's Arrecadados:
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 ####    Filtros:
 1.  **Período:**
@@ -58,5 +58,8 @@
 8.  Multa (+), juros (+) e correção (+)  - Campos valor de Juros, multa e correção da Cota;
 9.  Valor Pago   - Valor pago da cota;
 10. Dt. pagamento- Data do pagamento da cota; 
+11. Arrecadador Totalizador              - Total dos arrecadadores separando por banco; 
+12  Total de Lançamento do dia           - Total das Cotas do dia 
+13. Total Geral dos lançamento           - Total de lançamento do relatorio; 
 ```
 ![alt text](/Fotos/dam_arrecadados.png)
