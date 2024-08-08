@@ -204,5 +204,52 @@ Filtros:
     ![alt text](image-4.png)
 
 6.  **Imprimir Extrato:** 
-    >   **Observação:** *Checkbox* ao marcar gera Carta de cobrança com extrato com novo _vencimento_ para os **DAM'S** dos contribuintes. 
+    >   **Observação:** *Type Checkbox* ao marcar gera Carta de cobrança com **EXTRATO** com novo _vencimentos_ para os **DAM'S** dos contribuintes.<br>
     ![alt text](image-5.png)
+
+7.  **Calcular:** 
+    >   **Observação:** Traz o calculo dos DAM com _Multa, Juros e Correção Monetária_ no extrato. 
+
+8.  **Ordenar:**    
+    >   **Observação:** Filtro podendo ordenar por "nome_contribuinte", "logradouro", "bairro" ou "inscrição" 
+
+
+### Contribuinte Adimplente
+#### Filtros
+
+1.  Período 
+   
+    >**Observação:** (Data - *type: Date* -Data da emissão do DAM'S) <br>
+    ![alt text](Fotos/image.png)
+
+2.  Tributo 
+    >**Observação:** <br>   *Multiplo* _select_ -- classificação de receita (tipo do tributo *IPTU, TFF, ...)*<br>
+    ![alt text](Fotos/image-1.png)<br>
+    ![alt text](Fotos/image-2.png)
+
+
+3.  Exercicio 
+    > **Observação:** Seleciona *Ano (2024, 2023, 2022, ...)* <br>
+    Filtro da competencia<br>
+    ![alt text](Fotos/image-3.png)<br>
+    ![alt text](Fotos/image-4.png)
+
+
+### Relação de Notas Fiscais Avulsas:
+####    Filtros:
+
+1.  Período 
+   
+    >**Observação:** (Data - *type: Date* -Data da emissão do DAM'S) <br>
+    ![alt text](Fotos/image.png)
+
+2.  **Prestador:**
+    >   **Observação:** Filtro de pesquisa dos prestadores de serviço, trazendo as informações apenas do prestador desejado com filtro.
+    ![alt text](image-6.png)
+
+3.  **Tomador:** 
+    >   **Observação:**     Fiiltro de pesquisa dos tomadores de serviço, trazendo as informações apenas do tomador desejado com filtro. 
+    ![alt text](image-7.png)
+
+4. **Ordenar:**
+    >   **Observação:** Select para ordenar por (Data emissão da Nota Fiscal Avulsa, numero da Nota Fiscal ou prestador alfabetica [A-Z]), apenas uma escolha de organização, 'orde by'.
