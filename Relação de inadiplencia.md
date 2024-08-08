@@ -1,4 +1,4 @@
-###  Listagem de Inadiplencia:
+###  ✅Listagem de inadimplência: 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 #### Filtros:
 1.  **Período:**
@@ -26,14 +26,14 @@
 6.  **Inscrição:**
     >**Observação:** *(Do lançamento do DAM)*, possibilidade de colocar apenas uma inscrição.<br> 
     Exemplo abaixo sistema antigo:<br> 
-    ![alt text](image.png)
+    ![alt text](/Fotos/inscrição.png)
     
 7.  **Atividade Principal:**
     >**Observação:** _Multipla opções_, podendo selecionar varios CNAES_PRINCIPAL. <br>
 
 8.  **Faixa de valor:**
     > **Observação:** Filtro de valor_cota, Filtrando do menor valor até maior valor.<br>
-    ![alt text](image-2.png)
+    ![alt text](fotos/faixa_valor.png)
 
 9. **Ordenar:** 
     > **Observação:** Select para ordenar por (nome_contribuinte, DAM'S ou inscrição) apenas uma escolha de organização, 'orde by'.   
