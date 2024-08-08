@@ -44,4 +44,4 @@
 8.  Municipio
 9.  Texto carta de cobrança 
 ```
-![alt text](image.png)
+![alt text](/Fotos/Carta_de_cobrança_amigavel.png)
