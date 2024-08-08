@@ -36,5 +36,16 @@
 7.  Juros(+)                        -   Juros da cota;
 8.  Correção (+)                    -   Correção monetaria da Cota;
 9.  Valor Pago                      -   Valor pago da Cota;
+10. Arrecadador Totalizador         -   Todos bancos do relatorio
+11. Dia                             -   Data Credito
+12. Qtd                             -   Quantidade de Cota cada banco
+13. Valor Tributo                   
+14. Desconto    
+15. Multa
+16. Juros 
+17. Correção
+18. Valor Pago
+19. Total de lançamento do dia      - Totalizador dos campos 
+20. Total Geral dos Lançamentos     - Total de todos os lançamentos do relatorio, todos os bancos. 
 ```
 ![alt text](/Fotos/balancete.png)

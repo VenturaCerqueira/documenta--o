@@ -45,5 +45,6 @@
  9.  Usuário            -   Usuario que efetuo a exitinção da cota;
  10. Inscrição          -   Inscrição;
  11. Total Registros    -   Quantidade de Cotas e total valor original (Valor Tributo); 
+ 12. Total Registros    -   Total de registros, Valor total do valor tributos do relatorio; 
 ```
 ![alt text](Fotos/dampormotivo.png)

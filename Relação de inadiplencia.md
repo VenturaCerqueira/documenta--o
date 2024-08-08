@@ -36,4 +36,31 @@
     ![alt text](fotos/faixa_valor.png)
 
 9. **Ordenar:** 
-    > **Observação:** Select para ordenar por (nome_contribuinte, DAM'S ou inscrição) apenas uma escolha de organização, 'orde by'.   
+    > **Observação:** Select para ordenar por (nome_contribuinte, DAM'S ou inscrição) apenas uma escolha de organização, 'orde by'.
+
+  
+####   Layout PDF:
+**Campos:** 
+ ```
+1.  Descrição da Receita / Tributo  -   Descrição da receita ou Sigla;
+2.  Arrecadador                     -   Banco;
+3.  Natureza                        -   Natureza Juridica; 
+3.  Qtd.                            -   Quantidade de DAM's;
+4.  Valor Tributo                   -   Valor Original da Cota; 
+5.  Desconto (-)                    -   Desconto da Cota;
+6.  Multa(+)                        -   Multa da cota;
+7.  Juros(+)                        -   Juros da cota;
+8.  Correção (+)                    -   Correção monetaria da Cota;
+9.  Valor Pago                      -   Valor pago da Cota;
+10. Arrecadador Totalizador         -   Todos bancos do relatorio
+11. Dia                             -   Data Credito
+12. Qtd                             -   Quantidade de Cota cada banco
+13. Valor Tributo                   
+14. Desconto    
+15. Multa
+16. Juros 
+17. Correção
+18. Valor Pago
+19. Total de lançamento do dia      - Totalizador dos campos 
+20. Total Geral dos Lançamentos     - Total de todos os lançamentos do relatorio, todos os bancos. 
+```  
