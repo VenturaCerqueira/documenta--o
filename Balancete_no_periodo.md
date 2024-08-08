@@ -17,11 +17,12 @@
 
 4.  **Situação:**
     >**Observação:** *Select para trazer **DAM'S com situação em** :  abertos, pagos/geral ou pagos/diários.*
-    <br>
-    ```
+
+```
     input type="radio" 
 
-    ``` 
+```
+ 
 ####   Layout PDF:
 **Campos:** 
  ```
