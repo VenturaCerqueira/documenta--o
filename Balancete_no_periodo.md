@@ -19,7 +19,7 @@
     >**Observação:** *Select para trazer **DAM'S com situação em** :  abertos, pagos/geral ou pagos/diários.*
     <br>
     ```
-    <input type="radio">  
+    input type="radio" 
 
     ``` 
 ####   Layout PDF:
