@@ -15,13 +15,13 @@
     >   **Observação:** *(Do lançamento do DAM)*, possibilidade de colocar apenas uma inscrição.
     <br> 
     **Exemplo campo do sistema Antigo:**  <br> 
-    ![alt text](/Fotos/inscrição.png) 
+    ![alt text](Fotos/inscrição.png) 
 
 4.  **Tipo Pessoa:** 
     >   **Observação:** _Select_ Todoas, juridica ou fisica; <br>
     **Exemplo campo do sistema Antigo:** <br>
-    ![alt text](/Fotos/pessoa.png)<br>
-    ![alt text](/Fotos/Tipopessoa.png)
+    ![alt text](Fotos/pessoa.png)<br>
+    ![alt text](Fotos/Tipopessoa.png)
 
 
 5. **Porte:** 
@@ -33,30 +33,30 @@
 6.  **Situação:**
     > **Observação:** _Select_ (situação/Status) contribuinte.<br>
     **Exemplo campo do sistema Antigo:** <br>
-    ![alt text](/Fotos/situação.png)<br>
+    ![alt text](Fotos/situação.png)<br>
     ![alt text](Fotos/Tiposituação.png)
 
 7.  **Periodo Atividade:** 
     >   **Observação:** Filtro tipo _Data_, _Inicio da atividade principal_ dos contribuintes. <br>
     **Exemplo campo do sistema Antigo:** 
     <br>
-    ![alt text](/Fotos/periodoatividade.png)
+    ![alt text](Fotos/periodoatividade.png)
 
 8.  **Período Cadastro contribuinte:** 
     >   **Observação:** Filtro tipo _Data_, data de cadastro do contribuinte.
     <br>
     **Exemplo campo do sistema Antigo:**
     <br> 
-    ![alt text](/Fotos/Periodocadastro.png)
+    ![alt text](Fotos/Periodocadastro.png)
 
 9.  **Período baixa atividade:**
     >   **Observação:** Filtro tipo _Data_, data de baixa da atividade principal. 
     <br>
-    ![alt text](/Fotos/periodobaixa.png)
+    ![alt text](Fotos/periodobaixa.png)
 
 10. **Ordenar por:**
     >   **Observação:** Alfabética, Inscrição, Rua, numerica, CPF/CNPJ e Bairro;<br> 
-    ![alt text](image.png)    
+    ![alt text](Fotos/ordenar.png)    
 
 
 ####   Layout PDF:
