@@ -49,7 +49,7 @@
 
 9.  **Período baixa atividade:**
     >   **Observação:** Filtro tipo _Data_, data de baixa da atividade principal.<br>
-    ![alt text](Fotos/periodobaixa.png)
+    ![alt text](fotos/periodoatividade.png)
 
 10. **Ordenar por:**
     >   **Observação:** Alfabética, Inscrição, Rua, numerica, CPF/CNPJ e Bairro;<br> 
