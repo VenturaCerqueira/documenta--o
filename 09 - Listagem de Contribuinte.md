@@ -43,10 +43,8 @@
     ![alt text](Fotos/periodoatividade.png)
 
 8.  **Período Cadastro contribuinte:** 
-    >   **Observação:** Filtro tipo _Data_, data de cadastro do contribuinte.
-    <br>
-    **Exemplo campo do sistema Antigo:**
-    <br> 
+    >   **Observação:** Filtro tipo _Data_, data de cadastro do contribuinte.<br>
+    **Exemplo campo do sistema Antigo:**<br> 
     ![alt text](Fotos/Periodocadastro.png)
 
 9.  **Período baixa atividade:**
