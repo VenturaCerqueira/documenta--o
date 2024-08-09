@@ -48,8 +48,7 @@
     ![alt text](Fotos/Periodocadastro.png)
 
 9.  **Período baixa atividade:**
-    >   **Observação:** Filtro tipo _Data_, data de baixa da atividade principal. 
-    <br>
+    >   **Observação:** Filtro tipo _Data_, data de baixa da atividade principal.<br>
     ![alt text](Fotos/periodobaixa.png)
 
 10. **Ordenar por:**
